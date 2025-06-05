@@ -13,10 +13,6 @@ This project focuses on detecting fraudulent credit card transactions using **un
   - 28 anonymized PCA-transformed components (`V1` to `V28`)
   - `Class` — 0: legitimate, 1: fraud
 
-> ⚠️ **Note**: The full dataset (`creditcard.csv`) exceeds GitHub's upload limit. Please download it from Kaggle and place it manually in the project directory.
-
----
-
 ## 🔍 Exploratory Data Analysis & Hypothesis
 
 - **Missing Values**: None

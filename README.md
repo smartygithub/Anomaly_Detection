@@ -54,4 +54,10 @@ This project focuses on detecting fraudulent credit card transactions using **un
 ---
 
 ## 📁 Project Structure
+Anomaly_Detection/
+│
+├── Code_Final.ipynb # Main notebook with EDA, SVD, classification, and clustering
+├── creditcard.csv 
+├── README.md # Project documentation
+└── .gitignore # Git ignore file
 
